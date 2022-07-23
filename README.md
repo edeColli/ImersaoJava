@@ -1,11 +1,18 @@
-# Semana de imersão Java da Alura - 4° dia
+# Semana de imersão Java da Alura
+
 Criando uma API para ser consumida por um front-end
 
-Cara depois de muito aprendizado, bugs e repetição para entender o código... Terminei a 4° aula.
-
-Aproveitei para usar monorepo e fazer um push do frontend e backend no mesmo repositório.
+Objetivo inicial era consumir alguma API que nos retornassem um nome/título e uma imagem.
+Posteriormente, criamos uma API para ser consumida pelo primeiro projeto que também nos retornava um nome e imagem.
+Nessa API, usamos mongoDB para fazer o prceso de CRUD, para inserir, remover e obter as informações das linguagens mais populares.
 
 Desafios cumpridos:
+
+. Consumir uma API, obtendo os dados e listando no terminal.
+
+. Refatoração de código usando abstração de classes.
+
+. Implementado nova classe Interface com métodos extras.
 
 . Criar um novo Extrator de conteúdo para o json retornado pelo mongoDb.
 
@@ -23,19 +30,11 @@ Desafios cumpridos:
   
 . Status do Request alterado para 201, quando um recurso é criado.
 
-. Ordenação da lista pelo rating de forma descrescente.
+Aula bem produtiva.
 
-. E aproveitei para usar varáveis de ambiente no Linux dentro do WSL. Assim a senha de usuário não sobe junto com o código.
+Foi interessante usar o MongoDb pela primeira vez e perceber as facilidades incríveis.
 
-Ficou "Topzera".
-
-
-Foi show usar o MongoDb pela primeira vez e descobrir possibilidades incríveis.
-
-Além de conhecer o https://start.spring.io/
-
-Ufaaa, por enquanto está para esta quarta aula.
-
+Ainda falta a Aula5, bora!!!!
 
 ## Imagens do projeto:
 
