@@ -30,6 +30,8 @@ Desafios cumpridos:
   
 . Status do Request alterado para 201, quando um recurso é criado.
 
+. Ainda usamos o PostMan para facilitar os testes com a nossa API.
+
 Aula bem produtiva.
 
 Foi interessante usar o MongoDb pela primeira vez e perceber as facilidades incríveis.
@@ -37,9 +39,6 @@ Foi interessante usar o MongoDb pela primeira vez e perceber as facilidades incr
 Ainda falta a Aula5, bora!!!!
 
 ## Imagens do projeto:
-
-
-![62db7a1c06a95d603b0b07dd](https://user-images.githubusercontent.com/72364037/180597958-47aec588-ea56-487d-8399-daafc815d535.png) - ![62db790f06a95d603b0b07d8](https://user-images.githubusercontent.com/72364037/180597964-5481bf50-2d86-4242-8569-aadc7e888613.png) - ![62db77db06a95d603b0b07d5](https://user-images.githubusercontent.com/72364037/180597973-a5d1390f-e564-4c1a-ad9f-6bba047d5c47.png)
 
 
 ![image](https://user-images.githubusercontent.com/72364037/180598340-90d20dcf-48dc-4c24-9fbe-a9ac82c76f66.png)
